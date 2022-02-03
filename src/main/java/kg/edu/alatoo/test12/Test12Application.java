@@ -16,6 +16,6 @@ public class Test12Application {
 	@GetMapping("/")
 
 	public String index(){
-		return "Hello world! ";
+		return "Hello Emir! ";
 	}
 }
